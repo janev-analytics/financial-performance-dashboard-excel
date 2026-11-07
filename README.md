@@ -38,7 +38,8 @@ Consolidate the country-level models into one interactive Excel dashboard that t
 ## Files
 | File | Description |
 |---|---|
-| `Excel_Project_Raw_Data.xlsx` | Full workbook: dashboard, input data, USA & Canada financial models, margin table |
+| `Financial_Performance_Dashboard.xlsx` | Finished workbook: dashboard, input data, USA & Canada models, margin table |
+| `Excel Project Raw Data.xlsx` | Original raw data (starting point): USA & Canada financial models and margin table |
 | `dashboard.png` | Dashboard screenshot |
 
 ## Tools
